@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td align="center"><img src="Wallpapers/W6.jpg" width="160"/><br/><sub>W6</sub></td>
-    <td align="center"><img src="Wallpapers/W7.png" width="160"/><br/><sub>W7</sub></td>
+    <td align="center"><img src="Wallpapers/W7.jpg" width="160"/><br/><sub>W7</sub></td>
     <td align="center"><img src="Wallpapers/W8.jpg" width="160"/><br/><sub>W8</sub></td>
     <td align="center"><img src="Wallpapers/W9.jpg" width="160"/><br/><sub>W9</sub></td>
     <td align="center"><img src="Wallpapers/W10.jpg" width="160"/><br/><sub>W10</sub></td>
@@ -19,26 +19,26 @@
   <tr>
     <td align="center"><img src="Wallpapers/W11.jpg" width="160"/><br/><sub>W11</sub></td>
     <td align="center"><img src="Wallpapers/W12.jpg" width="160"/><br/><sub>W12</sub></td>
-    <td align="center"><img src="Wallpapers/W13.png" width="160"/><br/><sub>W13</sub></td>
+    <td align="center"><img src="Wallpapers/W13.jpg" width="160"/><br/><sub>W13</sub></td>
     <td align="center"><img src="Wallpapers/W14.jpg" width="160"/><br/><sub>W14</sub></td>
     <td align="center"><img src="Wallpapers/W15.jpg" width="160"/><br/><sub>W15</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="Wallpapers/W16.png" width="160"/><br/><sub>W16</sub></td>
+    <td align="center"><img src="Wallpapers/W16.jpg" width="160"/><br/><sub>W16</sub></td>
     <td align="center"><img src="Wallpapers/W17.jpg" width="160"/><br/><sub>W17</sub></td>
     <td align="center"><img src="Wallpapers/W18.jpg" width="160"/><br/><sub>W18</sub></td>
     <td align="center"><img src="Wallpapers/W19.jpg" width="160"/><br/><sub>W19</sub></td>
-    <td align="center"><img src="Wallpapers/W20.png" width="160"/><br/><sub>W20</sub></td>
+    <td align="center"><img src="Wallpapers/W20.jpg" width="160"/><br/><sub>W20</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="Wallpapers/W21.jpg" width="160"/><br/><sub>W21</sub></td>
-    <td align="center"><img src="Wallpapers/W22.png" width="160"/><br/><sub>W22</sub></td>
-    <td align="center"><img src="Wallpapers/W23.png" width="160"/><br/><sub>W23</sub></td>
+    <td align="center"><img src="Wallpapers/W22.jpg" width="160"/><br/><sub>W22</sub></td>
+    <td align="center"><img src="Wallpapers/W23.jpg" width="160"/><br/><sub>W23</sub></td>
     <td align="center"><img src="Wallpapers/W24.jpg" width="160"/><br/><sub>W24</sub></td>
     <td align="center"><img src="Wallpapers/W25.jpg" width="160"/><br/><sub>W25</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="Wallpapers/W26.png" width="160"/><br/><sub>W26</sub></td>
+    <td align="center"><img src="Wallpapers/W26.jpg" width="160"/><br/><sub>W26</sub></td>
     <td align="center"><img src="Wallpapers/W27.jpg" width="160"/><br/><sub>W27</sub></td>
     <td align="center"><img src="Wallpapers/W28.jpg" width="160"/><br/><sub>W28</sub></td>
     <td align="center"><img src="Wallpapers/W29.jpg" width="160"/><br/><sub>W29</sub></td>
@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td align="center"><img src="Wallpapers/W36.jpg" width="160"/><br/><sub>W36</sub></td>
-    <td align="center"><img src="Wallpapers/W37.png" width="160"/><br/><sub>W37</sub></td>
+    <td align="center"><img src="Wallpapers/W37.jpg" width="160"/><br/><sub>W37</sub></td>
     <td align="center"><img src="Wallpapers/W38.jpg" width="160"/><br/><sub>W38</sub></td>
     <td align="center"><img src="Wallpapers/W39.jpg" width="160"/><br/><sub>W39</sub></td>
     <td align="center"><img src="Wallpapers/W40.jpg" width="160"/><br/><sub>W40</sub></td>
