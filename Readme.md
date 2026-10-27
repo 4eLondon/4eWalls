@@ -100,5 +100,12 @@
     <td align="center"><img src="Wallpapers/W69.jpg" width="160"/><br/><sub>W69</sub></td>
     <td align="center"><img src="Wallpapers/W70.jpg" width="160"/><br/><sub>W70</sub></td>
   </tr>
+    <tr>
+    <td align="center"><img src="Wallpapers/W66.jpg" width="160"/><br/><sub>W71</sub></td>
+    <td align="center"><img src="Wallpapers/W67.jpg" width="160"/><br/><sub>W72</sub></td>
+    <td align="center"><img src="Wallpapers/W68.jpg" width="160"/><br/><sub>W73</sub></td>
+    <td align="center"><img src="Wallpapers/W69.jpg" width="160"/><br/><sub>W74</sub></td>
+    <td align="center"><img src="Wallpapers/W70.jpg" width="160"/><br/><sub>W75</sub></td>
+  </tr>
 
 </table>
